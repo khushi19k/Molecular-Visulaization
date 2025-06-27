@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/xyz_unity_visualize.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
